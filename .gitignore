@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+dist/
+build/
+*.pdf   # unless you want to track the figure
+# Ignore the generated result PDF if it's rebuilt by the code
+code/biophysical_ai_results.pdf
